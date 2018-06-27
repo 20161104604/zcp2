@@ -36,3 +36,4 @@ struct Referee
 };
 // 函数声明
 void  output ( student *s,int n,referee *r);
+void search(student *s,referee *r);
