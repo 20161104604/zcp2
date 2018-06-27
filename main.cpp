@@ -35,4 +35,4 @@ struct Referee
     string tel;
 };
 // 函数声明
-void  output (
+void  output ( student *s,int n,referee *r);
